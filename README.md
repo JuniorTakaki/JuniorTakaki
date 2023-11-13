@@ -1,4 +1,4 @@
-# Bem-vindo ao meu Perfil do GitHub! 👋
+## Welcome to my GitHub! 👋
 
 Hi i'm Armando, but normally i use my last name Junior takaki
 
@@ -7,12 +7,10 @@ Hi i'm Armando, but normally i use my last name Junior takaki
 - 👨‍💻 Web developer Junior
 - 🌐 Studying System Analysis and Development
   
-
 ## Skills
 
-- 💻 knowledge : [HTML,CSS ,JS] 
-- 🛠️ Other: [git, github, Docker
-
+- 💻 knowledge : HTML,CSS ,JS
+- 🛠️ Other: git, github, Docker
 
 ## Estatísticas do GitHub
 
