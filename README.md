@@ -11,7 +11,7 @@ Hi i'm Armando, but normally i use my last name Junior takaki
 ## Skills
 
 - 💻 knowledge : HTML,CSS ,JS
-- 🛠️ Other: [git, github, Docker
+- 🛠️ Other: git, github, Docker
 
 
 ## Estatísticas do GitHub
