@@ -1,16 +1,26 @@
-### Hi there 👋
+# Bem-vindo ao meu Perfil do GitHub! 👋
 
-<!--
-**JuniorTakaki/JuniorTakaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi i'm Armando, but normally i use my last name Junior takaki
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 Web developer Junior
+- 🌐 Studying System Analysis and Development
+  
+
+## Skills
+
+- 💻 knowledge : [HTML,CSS ,JS] 
+- 🛠️ Other: [git, github, Docker
+
+
+## Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&hide_border=true)
+
+## Social-media 
+
+- [LinkedIn](https://www.linkedin.com/in/junior-takaki/)
+
+
+
