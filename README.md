@@ -14,7 +14,8 @@ Hi i'm Armando, but normally i use my last name Junior takaki
 
 ## Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&hide_border=true)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&hide_border=true&theme=dark)
+
 
 ## Social-media 
 
