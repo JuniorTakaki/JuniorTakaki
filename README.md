@@ -7,9 +7,7 @@
 
 ## GITHUB STATS
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=JuniorTakaki&show_icons=true&hide_border=true&theme=midnight-purple)
-
-![Takaki's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=midnight-purple&show_icons=true)
+![Takaki's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuniorTakaki&theme=midnight-purple&show_icons=true)
 ## Social-media 
 
 - [LinkedIn](https://www.linkedin.com/in/junior-takaki/)
