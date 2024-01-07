@@ -1,22 +1,16 @@
-## Welcome to my GitHub! 👋
+## hi, my name is Armando, But could u call me Junior Takaki
 
 =======
 
-Hi i'm Armando, but normally i use my last name Junior takaki
-
-## About me
+## GOals 2024
 
 - 👨‍💻 Web developer Junior
-- 🌐 Studying System Analysis and Development
+- 🌐 Work with IT
   
-## Skills
-
-- 💻 knowledge : HTML,CSS ,JS
-- 🛠️ Other: git, github, Docker
 
 =======
 
-## Estatísticas do GitHub
+## GITHUB STATS
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=JuniorTakaki&show_icons=true&hide_border=true&theme=midnight-purple)
 
