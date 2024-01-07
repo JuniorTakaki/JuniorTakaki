@@ -1,14 +1,9 @@
 ## hi, my name is Armando, But could u call me Junior Takaki
 
-=======
-
-## GOals 2024
+## Goals 2024
 
 - 👨‍💻 Web developer Junior
 - 🌐 Work with IT
-  
-
-=======
 
 ## GITHUB STATS
 
