@@ -12,6 +12,8 @@
 
 - 🖥️ Learn React
 
+- 🖥️ Learn Tailwind
+
 - 🖥️ Learn node.js
 
 - 🏦 Learn SQL
