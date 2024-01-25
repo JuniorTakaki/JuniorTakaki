@@ -1,21 +1,37 @@
-![Azul Gradiente Criativo Elevador Apresentação  Pitch Deck](https://github.com/JuniorTakaki/JuniorTakaki/assets/111248094/333cac54-ebf0-47bc-8f9f-db5483566c5c)
+# Hey i'm Junior Takaki
+
+i'm brazilian web-developer jr. 
+
+# 📦ToolBox
+
+Fronted development: `HTML` `CSS` `Tailwind` `JavaScript`
+
+Backend development: `Mysql` `SQL server`
+
+version Control: `Git` 
+
 
 ![Takaki's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuniorTakaki&theme=midnight-purple&show_icons=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorTakaki&exclude_repo=cem_clipnet&layout=compact&theme=midnight-purple)
 
 ## Goals 2024
 
 - 👨‍💻 Web developer Junior
-  
+  - 🖥️ Learn React
+  - 🖥️ Learn Tailwind
+  - 🖥️ Learn node.js
+  - 🏦 Learn SQL
+  - 🐍 Learn Python
+    
 - 🌐 Work with IT
+  repair pc
 
-- 🖥️ Learn React
 
-- 🖥️ Learn Tailwind
 
-- 🖥️ Learn node.js
 
-- 🏦 Learn SQL
 
-- 🐍 Learn Python
+
+
+
+
+
