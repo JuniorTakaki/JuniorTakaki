@@ -1,12 +1,12 @@
-# Hey i'm Junior Takaki
+# Armando S T Junior
 
-i'm brazilian web-developer jr. 
+Software Enginner student  
 
 # 📦ToolBox
 
-Fronted development: `HTML` `CSS` `Tailwind` `JavaScript`
+Fronted development: `HTML` `CSS` `Tailwind` `React`
 
-Backend development: `Mysql` `SQL server`
+Backend development: `Python`
 
 version Control: `Git` 
 
@@ -14,17 +14,9 @@ version Control: `Git`
 ![Takaki's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuniorTakaki&theme=midnight-purple&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorTakaki&exclude_repo=cem_clipnet&layout=compact&theme=midnight-purple)
 
-## Goals 2024
-
-- 👨‍💻 Web developer Junior
-  - 🖥️ Learn React
-  - 🖥️ Learn Tailwind
-  - 🖥️ Learn node.js
-  - 🏦 Learn SQL
-  - 🐍 Learn Python
+## Goals 2026
     
-- 🌐 Work with IT
-  repair pc
+- 🌐 Work with DevOps
 
 
 
